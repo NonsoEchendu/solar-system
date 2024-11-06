@@ -193,4 +193,5 @@ jobs:
             echo ----------------------
               kubectl get nodes
 
+              
         
